@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 import { useParams } from "react-router-dom";
 
@@ -26,7 +26,7 @@ function City() {
     function() {
       getCity(id);
     }, 
-    [id]
+    [id, getCity]
   );
 
   // TEMP DATA
