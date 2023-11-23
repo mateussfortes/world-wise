@@ -40,10 +40,12 @@ function Map() {
         [geolocationPosition]
     )
 
-    return (<div className={styles.mapContainer} onClick={() => navigate("form")}>
-        {!geolocationPosition && (<Button type="position" onClick={getPosition}>
-            {isLoadingPosition? "Loading..." : "Use your position"}
-        </Button>)}
+    return (<div className={styles.mapContainer}>
+            {!geolocationPosition && (
+                <Button type="position" onClick={getPosition}>
+                    {isLoadingPosition? "Loading..." : "Use your position"}
+                </Button>
+            )}
         <MapContainer 
             center={mapPosition} 
             zoom={6} 

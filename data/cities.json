@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Zotes del Paramo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-23T21:43:55.650Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.261049162113856",
+        "lng": "-5.712890625000001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Khettouti Sed El Djir",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-11-23T21:47:04.914Z",
+      "notes": "test",
+      "position": {
+        "lat": "35.69299463209881",
+        "lng": "4.306640625000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Ajdabiya",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-11-23T21:47:27.545Z",
+      "notes": "test",
+      "position": {
+        "lat": "27.371767300523047",
+        "lng": "19.511718750000004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Zhigansk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-11-23T21:51:20.534Z",
+      "notes": "test",
+      "position": {
+        "lat": "67.06743335108298",
+        "lng": "123.75000000000001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "El Menzel",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-11-23T21:53:43.958Z",
+      "notes": "test",
+      "position": {
+        "lat": "33.87041555094183",
+        "lng": "-4.570312500000001"
+      },
+      "id": 98443202
     }
   ]
 }
